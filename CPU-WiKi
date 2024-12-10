@@ -1,0 +1,33 @@
+<html>
+
+<head>
+<mate charset= "Shift_JIS">
+<title>CPU-WiKi</title>
+</head>
+
+<boby>
+<h1>ようこそ !! CPU-WiKiへ !! </h1>
+
+<!-- admax -->
+<script src="https://adm.shinobi.jp/s/f18543e838ffa01bf50229afc1ea4dd9">
+</script> <br>
+<!-- admax -->
+
+<h2>--メニュー</h2>
+<a href= "../Intel-CPU.html">Intel-CPU 一覧..</a> <br>
+
+<!-- admax -->
+<script src="https://adm.shinobi.jp/s/f18543e838ffa01bf50229afc1ea4dd9">
+</script> <br>
+<!-- admax -->
+
+<a href= "../AMD-CPU.html">AMD-CPU 一覧..</a> <br>
+
+<!-- admax -->
+<script src="https://adm.shinobi.jp/s/f18543e838ffa01bf50229afc1ea4dd9">
+</script> <br>
+<!-- admax -->
+
+</boby>
+
+</html>
